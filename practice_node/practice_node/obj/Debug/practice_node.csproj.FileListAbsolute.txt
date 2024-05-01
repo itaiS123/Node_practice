@@ -1,0 +1,10 @@
+C:\New folder\c#\practice_node\practice_node\practice_node\bin\Debug\practice_node.exe.config
+C:\New folder\c#\practice_node\practice_node\practice_node\bin\Debug\practice_node.exe
+C:\New folder\c#\practice_node\practice_node\practice_node\bin\Debug\practice_node.pdb
+C:\New folder\c#\practice_node\practice_node\practice_node\bin\Debug\Unit4.dll
+C:\New folder\c#\practice_node\practice_node\practice_node\obj\Debug\practice_node.csproj.AssemblyReference.cache
+C:\New folder\c#\practice_node\practice_node\practice_node\obj\Debug\practice_node.csproj.SuggestedBindingRedirects.cache
+C:\New folder\c#\practice_node\practice_node\practice_node\obj\Debug\practice_node.csproj.CoreCompileInputs.cache
+C:\New folder\c#\practice_node\practice_node\practice_node\obj\Debug\practice_node.csproj.CopyComplete
+C:\New folder\c#\practice_node\practice_node\practice_node\obj\Debug\practice_node.exe
+C:\New folder\c#\practice_node\practice_node\practice_node\obj\Debug\practice_node.pdb
